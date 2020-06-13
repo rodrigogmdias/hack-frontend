@@ -1,0 +1,6 @@
+framework module Pods_CaminheiroFacil {
+  umbrella header "Pods-CaminheiroFacil-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -3,7 +3,7 @@ import { View, Text, ImageBackground, StyleSheet, ScrollView } from "react-nativ
 
 export default class Mapa extends Component {
 static navigationOptions = {
-    title : "Mapa de perigo"
+    title : "Mapa"
 }
 render() {
   return ( 

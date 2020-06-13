@@ -63,7 +63,7 @@ backgroundFundo: {
   position: "absolute",
   width: "100%",
   height: "100%",
-  backgroundColor: "#9702e4",
+  backgroundColor: "#ffffff",
   opacity: 0.5
 },
 scroll: {

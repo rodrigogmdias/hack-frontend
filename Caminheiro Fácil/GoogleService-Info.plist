@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>926553828498-e713ult9s970v2itktqs0601lnmc2rpa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.926553828498-e713ult9s970v2itktqs0601lnmc2rpa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCS-4o-eXTuylWTSj8HH6C5GELNp2gHKao</string>
+	<key>GCM_SENDER_ID</key>
+	<string>926553828498</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.rodrigogmdias.caminhoneiro</string>
+	<key>PROJECT_ID</key>
+	<string>time-360</string>
+	<key>STORAGE_BUCKET</key>
+	<string>time-360.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:926553828498:ios:c0a7e7ab580ce9a60d0a4b</string>
+	<key>DATABASE_URL</key>
+	<string>https://time-360.firebaseio.com</string>
+</dict>
+</plist>

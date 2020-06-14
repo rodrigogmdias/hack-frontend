@@ -14,11 +14,17 @@
 		B99BAF0E249486EF003A7A3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B99BAF0C249486EF003A7A3F /* LaunchScreen.storyboard */; };
 		B99BAF17249488D2003A7A3F /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99BAF16249488D2003A7A3F /* SettingsViewController.swift */; };
 		B99BAF1924949A90003A7A3F /* CardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99BAF1824949A90003A7A3F /* CardViewController.swift */; };
+		B9B12AEE2495AC09006E4D25 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9B12AED2495AC08006E4D25 /* GoogleService-Info.plist */; };
+		B9B12AF02495B466006E4D25 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B12AEF2495B466006E4D25 /* LoginViewController.swift */; };
+		B9B12AF22495D82F006E4D25 /* HomeCardCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B12AF12495D82F006E4D25 /* HomeCardCollectionViewCell.swift */; };
+		B9B12AF42496AFAA006E4D25 /* PremmiumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B12AF32496AFAA006E4D25 /* PremmiumViewController.swift */; };
+		B9B12AF62496CB8F006E4D25 /* QRCodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B12AF52496CB8F006E4D25 /* QRCodeViewController.swift */; };
+		B9B12AF82496D7DC006E4D25 /* HealthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B12AF72496D7DC006E4D25 /* HealthViewController.swift */; };
 		B9E1BAC52494A426001DBFC5 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9E1BAC42494A426001DBFC5 /* HomeViewController.swift */; };
-		B9E1BAC92494A4D2001DBFC5 /* CardHomeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9E1BAC72494A4D2001DBFC5 /* CardHomeCollectionViewCell.swift */; };
-		B9E1BACA2494A4D2001DBFC5 /* CardHomeCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B9E1BAC82494A4D2001DBFC5 /* CardHomeCollectionViewCell.xib */; };
 		B9E1BACC24954579001DBFC5 /* ItemDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9E1BACB24954579001DBFC5 /* ItemDetailViewController.swift */; };
 		B9E1BACE2495575E001DBFC5 /* TruckViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9E1BACD2495575E001DBFC5 /* TruckViewController.swift */; };
+		B9E1BAD024957FDE001DBFC5 /* ActionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9E1BACF24957FDE001DBFC5 /* ActionsViewController.swift */; };
+		B9E1BAD32495842F001DBFC5 /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9E1BAD22495842F001DBFC5 /* Button.swift */; };
 		E5ED92470F578A9F6CC98C63 /* Pods_CaminheiroFacil.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D702D11182537CFDAA10FABC /* Pods_CaminheiroFacil.framework */; };
 /* End PBXBuildFile section */
 
@@ -35,11 +41,17 @@
 		B99BAF0F249486EF003A7A3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B99BAF16249488D2003A7A3F /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		B99BAF1824949A90003A7A3F /* CardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewController.swift; sourceTree = "<group>"; };
+		B9B12AED2495AC08006E4D25 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		B9B12AEF2495B466006E4D25 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		B9B12AF12495D82F006E4D25 /* HomeCardCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCardCollectionViewCell.swift; sourceTree = "<group>"; };
+		B9B12AF32496AFAA006E4D25 /* PremmiumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremmiumViewController.swift; sourceTree = "<group>"; };
+		B9B12AF52496CB8F006E4D25 /* QRCodeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeViewController.swift; sourceTree = "<group>"; };
+		B9B12AF72496D7DC006E4D25 /* HealthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthViewController.swift; sourceTree = "<group>"; };
 		B9E1BAC42494A426001DBFC5 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
-		B9E1BAC72494A4D2001DBFC5 /* CardHomeCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardHomeCollectionViewCell.swift; sourceTree = "<group>"; };
-		B9E1BAC82494A4D2001DBFC5 /* CardHomeCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CardHomeCollectionViewCell.xib; sourceTree = "<group>"; };
 		B9E1BACB24954579001DBFC5 /* ItemDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetailViewController.swift; sourceTree = "<group>"; };
 		B9E1BACD2495575E001DBFC5 /* TruckViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TruckViewController.swift; sourceTree = "<group>"; };
+		B9E1BACF24957FDE001DBFC5 /* ActionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionsViewController.swift; sourceTree = "<group>"; };
+		B9E1BAD22495842F001DBFC5 /* Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
 		C574AE933EB35C3E80B08A0F /* Pods-CaminheiroFacil.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CaminheiroFacil.debug.xcconfig"; path = "Target Support Files/Pods-CaminheiroFacil/Pods-CaminheiroFacil.debug.xcconfig"; sourceTree = "<group>"; };
 		D702D11182537CFDAA10FABC /* Pods_CaminheiroFacil.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CaminheiroFacil.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -77,6 +89,7 @@
 		B99BAEFE249486EE003A7A3F /* Caminheiro Fácil */ = {
 			isa = PBXGroup;
 			children = (
+				B9E1BAD124958413001DBFC5 /* UI */,
 				B99BAF15249488B8003A7A3F /* ViewsControllers */,
 				B99BAEFF249486EE003A7A3F /* AppDelegate.swift */,
 				B99BAF01249486EE003A7A3F /* SceneDelegate.swift */,
@@ -84,6 +97,7 @@
 				B99BAF0A249486EF003A7A3F /* Assets.xcassets */,
 				B99BAF0C249486EF003A7A3F /* LaunchScreen.storyboard */,
 				B99BAF0F249486EF003A7A3F /* Info.plist */,
+				B9B12AED2495AC08006E4D25 /* GoogleService-Info.plist */,
 			);
 			name = "Caminheiro Fácil";
 			path = "Caminheiro Fácil";
@@ -93,11 +107,16 @@
 			isa = PBXGroup;
 			children = (
 				B9E1BAC62494A4A7001DBFC5 /* Cells */,
+				B9B12AEF2495B466006E4D25 /* LoginViewController.swift */,
 				B99BAF16249488D2003A7A3F /* SettingsViewController.swift */,
 				B99BAF1824949A90003A7A3F /* CardViewController.swift */,
 				B9E1BAC42494A426001DBFC5 /* HomeViewController.swift */,
 				B9E1BACB24954579001DBFC5 /* ItemDetailViewController.swift */,
 				B9E1BACD2495575E001DBFC5 /* TruckViewController.swift */,
+				B9E1BACF24957FDE001DBFC5 /* ActionsViewController.swift */,
+				B9B12AF32496AFAA006E4D25 /* PremmiumViewController.swift */,
+				B9B12AF52496CB8F006E4D25 /* QRCodeViewController.swift */,
+				B9B12AF72496D7DC006E4D25 /* HealthViewController.swift */,
 			);
 			path = ViewsControllers;
 			sourceTree = "<group>";
@@ -105,10 +124,17 @@
 		B9E1BAC62494A4A7001DBFC5 /* Cells */ = {
 			isa = PBXGroup;
 			children = (
-				B9E1BAC72494A4D2001DBFC5 /* CardHomeCollectionViewCell.swift */,
-				B9E1BAC82494A4D2001DBFC5 /* CardHomeCollectionViewCell.xib */,
+				B9B12AF12495D82F006E4D25 /* HomeCardCollectionViewCell.swift */,
 			);
 			path = Cells;
+			sourceTree = "<group>";
+		};
+		B9E1BAD124958413001DBFC5 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				B9E1BAD22495842F001DBFC5 /* Button.swift */,
+			);
+			path = UI;
 			sourceTree = "<group>";
 		};
 		C02D14C65E1FD7FA6B15E7EA /* Pods */ = {
@@ -192,7 +218,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B99BAF0E249486EF003A7A3F /* LaunchScreen.storyboard in Resources */,
-				B9E1BACA2494A4D2001DBFC5 /* CardHomeCollectionViewCell.xib in Resources */,
+				B9B12AEE2495AC09006E4D25 /* GoogleService-Info.plist in Resources */,
 				B99BAF0B249486EF003A7A3F /* Assets.xcassets in Resources */,
 				B99BAF09249486EE003A7A3F /* Main.storyboard in Resources */,
 			);
@@ -264,14 +290,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9E1BAC92494A4D2001DBFC5 /* CardHomeCollectionViewCell.swift in Sources */,
 				B9E1BACC24954579001DBFC5 /* ItemDetailViewController.swift in Sources */,
 				B9E1BAC52494A426001DBFC5 /* HomeViewController.swift in Sources */,
+				B9B12AF62496CB8F006E4D25 /* QRCodeViewController.swift in Sources */,
 				B99BAF1924949A90003A7A3F /* CardViewController.swift in Sources */,
 				B9E1BACE2495575E001DBFC5 /* TruckViewController.swift in Sources */,
+				B9E1BAD32495842F001DBFC5 /* Button.swift in Sources */,
 				B99BAF00249486EE003A7A3F /* AppDelegate.swift in Sources */,
+				B9B12AF22495D82F006E4D25 /* HomeCardCollectionViewCell.swift in Sources */,
+				B9E1BAD024957FDE001DBFC5 /* ActionsViewController.swift in Sources */,
 				B99BAF17249488D2003A7A3F /* SettingsViewController.swift in Sources */,
+				B9B12AF82496D7DC006E4D25 /* HealthViewController.swift in Sources */,
 				B99BAF02249486EE003A7A3F /* SceneDelegate.swift in Sources */,
+				B9B12AF42496AFAA006E4D25 /* PremmiumViewController.swift in Sources */,
+				B9B12AF02495B466006E4D25 /* LoginViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,7 +455,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "br.com.rodrigogmdias.Caminheiro-Fa-cil";
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.rodrigogmdias.caminhoneiro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -442,7 +474,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "br.com.rodrigogmdias.Caminheiro-Fa-cil";
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.rodrigogmdias.caminhoneiro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

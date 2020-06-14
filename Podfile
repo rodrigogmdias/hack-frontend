@@ -9,4 +9,12 @@ target 'CaminheiroFacil' do
   pod "UPCarouselFlowLayout"
   pod 'GoogleMaps'
   pod 'GooglePlaces'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Auth'
+  pod 'FBSDKLoginKit'
+  pod 'GoogleSignIn'
+  pod 'Firebase/Firestore'
+  pod 'FirebaseFirestoreSwift'
+  pod 'SDWebImage', '~> 5.0'
+  pod 'QRCodeReader.swift', '~> 10.1'
 end

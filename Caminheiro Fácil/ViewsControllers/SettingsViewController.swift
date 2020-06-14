@@ -7,6 +7,9 @@
 //
 
 import UIKit
+import Firebase
+import GoogleSignIn
+import FBSDKLoginKit
 
 class SettingsViewController: UIViewController {
 
@@ -16,6 +19,14 @@ class SettingsViewController: UIViewController {
     }
 
     @IBAction func logout(_ sender: Any) {
-        navigationController?.navigationController?.popToRootViewController(animated: true)
+        let firebaseAuth = Auth.auth()
+        do {
+            try firebaseAuth.signOut()
+            GIDSignIn.sharedInstance()?.signOut()
+            LoginManager().logOut()
+            navigationController?.navigationController?.popToRootViewController(animated: true)
+        } catch let signOutError as NSError {
+            print ("Error signing out: %@", signOutError)
+        }
     }
 }

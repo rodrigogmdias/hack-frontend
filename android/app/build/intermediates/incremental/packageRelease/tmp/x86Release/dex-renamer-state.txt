@@ -1,4 +1,0 @@
-#Fri Aug 23 17:23:27 BRT 2019
-base.0=/home/gabrielle/projetos/Radical/android/app/build/intermediates/transforms/r8/release/0
-path.0=classes.dex
-renamed.0=classes.dex
